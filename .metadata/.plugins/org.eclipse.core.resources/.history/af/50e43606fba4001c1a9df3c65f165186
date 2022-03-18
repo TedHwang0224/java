@@ -1,0 +1,17 @@
+import java.util.Scanner;
+
+public class question_ {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		// Page 21
+		int a1 = 'a';
+		char a2 = (char)(a1-32);
+		System.out.println(a2);
+		
+		
+		// Page 22
+		
+	}
+}
